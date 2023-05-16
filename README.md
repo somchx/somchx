@@ -1,6 +1,7 @@
-# Hello! Welcome to somchx world 👋🌏
+# Hello!👋
 > **Introduce :** I'm Chananya Aiamprakhon, and everyone who knows me calls me **"Som"**, which means orange. 🍊 I'm from Bangkok, Thailand.
 
+![somchx](https://github.com/somchx/somchx/assets/90122247/0154bc42-6239-43b2-b071-eedc9a7b38ff)
 ### Educational Background 🎓
 - Bachelor of Science in Computing Science, Silpakorn University (Nakhon Pathom, Thailand), Class of 2023
 - Second Class Honors ✨
