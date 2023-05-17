@@ -4,7 +4,7 @@
 ![somchx](https://github.com/somchx/somchx/assets/90122247/9cb1e8ca-17b6-4cc8-964d-965c5b41feeb)
 
 ### Educational Background 🎓
-- Bachelor of Science in Computing Science, Silpakorn University (Nakhon Pathom, Thailand), Class of 2023
+- Bachelor of Science in Computing Science, Silpakorn University (Nakhon Pathom, Thailand), _Class of 2023_
 - Second Class Honors ✨
 - GPA : 3.50
 
