@@ -1,5 +1,5 @@
 # Hello!👋
-> **Introduce :** I'm Chananya Aiamprakhon, and everyone who knows me calls me **"Som"**, which means orange. 🍊 in Thailand.
+> **Introduce :** I'm Chananya Aiamprakhon, and everyone who knows me calls me **"Som"**, which means orange 🍊 in Thailand.
 
 ![somchx](https://github.com/somchx/somchx/assets/90122247/9cb1e8ca-17b6-4cc8-964d-965c5b41feeb)
 
