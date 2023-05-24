@@ -9,6 +9,8 @@
 - GPA : 3.50
 
 ###  Here are some projects that I've finished 🚀
+May
+ - [x] [Somchx's Portfolio ](https://somchx-portfolio.vercel.app/)  _(May 2023)_
  - [x] [ESText Web Application](https://es-text-somchx.vercel.app/Home)  _(September 2022 - March 2023)_
  - [x] [Prediction Chest X-Ray](https://colab.research.google.com/drive/1qAf_EygIP1i5MV4CKLfBWSUhUNLnfo5L?usp=sharing)  _(December 2022)_
  - [x] [Firebox Game](https://simmer.io/@somchx/firebox) _(March 2022)_
