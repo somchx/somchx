@@ -5,8 +5,6 @@
 
 ### Educational Background 🎓
 - Bachelor of Science in Computing Science, Silpakorn University (Nakhon Pathom, Thailand), _Class of 2023_
-- Second Class Honors ✨
-- GPA : 3.50
 
 ###  Here are some projects that I've finished 🚀
 May
