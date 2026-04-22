@@ -42,7 +42,7 @@ May
 
 ### Award / Achievement 🏆
 _2023_
-- I have participated in the 4th Asia Joint Conference on Computing (AJCC)
+- I have participated in the 4th Asia Joint Conference on Computing (AJCC) --> [my paper]([https://github.com/somchx/somchx/assets/90122247/9cb1e8ca-17b6-4cc8-964d-965c5b41feeb](http://www.icicelb.org/ellb/contents/2024/5/elb-15-05-03.pdf))
 - I have achieved Java Programming Fundamentals course (BUU MOOC) by self-learning.
 
 _2021_
